@@ -9,3 +9,4 @@
  
 ###6-multiple_permissions---Grants read and execute permission to owner and group and read only to other users, in the hello file
  
+###7-everybody---Gives owner, group and other users execution permission
