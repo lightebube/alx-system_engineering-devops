@@ -7,8 +7,8 @@
 ###4-empty---Creates an empty file called hello
 ###5-execute---Gives permmission to owner to execute the hello file
  
-###6-multiple_permissions---Grants read and execute permission to owner and group and read only to other users, in the hello file
- 
+###6-multiple_permissions---Grants read and execute permission to owner and group and read only to other users, in the hello file 
 ###7-everybody---Gives owner, group and other users execution permission
+
 ###8-James_Bond---Grants all permission to other users and no permission to owner and group
-###9-John_Doe---Script the sets the hello file permission to -rwxr-x-wx
+###9-John_Doe---Script that sets the hello file permission to -rwxr-x-wx
