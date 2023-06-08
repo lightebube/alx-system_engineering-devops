@@ -14,3 +14,4 @@
 ###9-John_Doe---Script that sets the hello file permission to -rwxr-x-wx
 ###10-mirror_permissions---Script that makes hello file have the same mode as the olleh file
 ###12-directory_permissions---Script that creates a directory and add permissions
+###100-change_owner_and_group---Script that changes the owner to vincent and the group owner to staff for all the files and directories in the working directory
