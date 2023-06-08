@@ -11,3 +11,4 @@
  
 ###7-everybody---Gives owner, group and other users execution permission
 ###8-James_Bond---Grants all permission to other users and no permission to owner and group
+###9-John_Doe---Script the sets the hello file permission to -rwxr-x-wx
