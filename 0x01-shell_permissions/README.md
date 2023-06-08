@@ -5,3 +5,5 @@
 ###3-new_owner---Switch owner of file (hello) to betty
  
 ###4-empty---Creates an empty file called hello
+###5-execute---Gives permmission to owner to execute the hello file
+ 
