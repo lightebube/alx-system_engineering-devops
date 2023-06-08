@@ -4,3 +4,4 @@
 ###2-groups---Shows the current user group
 ###3-new_owner---Switch owner of file (hello) to betty
  
+###4-empty---Creates an empty file called hello
