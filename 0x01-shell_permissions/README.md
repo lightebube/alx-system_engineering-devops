@@ -7,3 +7,5 @@
 ###4-empty---Creates an empty file called hello
 ###5-execute---Gives permmission to owner to execute the hello file
  
+###6-multiple_permissions---Grants read and execute permission to owner and group and read only to other users, in the hello file
+ 
